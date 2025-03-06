@@ -41,7 +41,7 @@ const UploadFrom = () => {
   };
 
   return (
-    <div className="w-full min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-400 to-gray-400 p-6 mt-12 overflow-x-hidden">
+    <div className="w-full min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-400 to-gray-400 p-6 mt-14 overflow-x-hidden">
       <h2 className="text-2xl font-bold text-white mb-4">Resim Yükle</h2>
 
       <div className="flex flex-col md:flex-row gap-5 md:gap-10 items-center w-full justify-center">
